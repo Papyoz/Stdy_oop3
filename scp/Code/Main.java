@@ -28,3 +28,11 @@ class Circle{
         return Math.sqrt(x*x + y*y);
     }
 }
+/*
+12
+12
+x = 12.0
+y = 12.0
+Lenght without args = 16.97056274847714
+Lenght with args = 37.21558813185679
+ */
